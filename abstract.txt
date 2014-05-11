@@ -1,0 +1,5 @@
+open source at scale
+
+how to maintain hundreds of modules in a distributed ecosystem with tens of
+thousands of edges
+
