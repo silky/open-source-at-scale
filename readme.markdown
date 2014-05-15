@@ -80,6 +80,7 @@ If you have an idea for a module, build it immediately!
 
 # ndarray
 
+# [gl](example/gl/static/index.html)
 
 # music
 
