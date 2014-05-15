@@ -1,71 +1,44 @@
-open source at scale
+# open source at scale
 
-how to maintain hundreds of modules in a distributed ecosystem with tens of
-thousands of edges
+![intro](images/intro.png)
 
 # scale
 
-https://github.com/search?q=type%3Apr+user%3Asubstack+created%3A2014-01-01..2014-05-01&type=Issues&ref=searchresults
-
-https://github.com/dashboard/pulls/public
-
-as of 2014-05-12:
-
 ```
-$ npmtop 20
 rank   percent   packages   author
 ----   -------   --------   ------
    1    0.65 %      529     tjholowaychuk
-   2    0.47 %      380     substack
-   3    0.43 %      347     dominictarr
-   4    0.40 %      321     juliangruber
-   5    0.39 %      315     jongleberry
-   6    0.37 %      302     mikolalysenko
+   2    0.46 %      380     substack
+   3    0.43 %      349     dominictarr
+   4    0.39 %      321     jongleberry
+   5    0.39 %      321     juliangruber
+   6    0.37 %      303     mikolalysenko
    7    0.35 %      286     raynos
-   8    0.35 %      282     jonschlinkert
-   9    0.34 %      277     sindresorhus
-  10    0.31 %      254     mathias
+   8    0.34 %      282     jonschlinkert
+   9    0.34 %      279     sindresorhus
+  10    0.31 %      255     mathias
   11    0.29 %      238     forbeslindesay
-  12    0.27 %      219     hughsk
-  13    0.27 %      216     clewfirst
-  14    0.25 %      200     fengmk2
+  12    0.28 %      227     hughsk
+  13    0.26 %      216     clewfirst
+  14    0.24 %      199     fengmk2
   15    0.24 %      197     phated
-  16    0.24 %      192     architectd
-  17    0.23 %      187     shtylman
-  18    0.23 %      186     azer
-  19    0.23 %      183     kitcambridge
-  20    0.22 %      182     mattmueller
 ```
 
-56 people have over 100 packages on npm
+# issues
 
-# capture your motivation
+![issues](images/issues.png)
 
-you're building a system
-and you need a component
+# pull requests
 
-* search for existing implementations
+![prs](images/pr.png)
 
-if you think 
-work on it
-if you have an idea:
+# pull request
 
-* motivation is scarce
-* motivation is fleeting - limit the scope of the first version to something
-that can be built in less than 2 hours
+![{"cwd":"."}](images/terminal.png)
 
-build things because you want them to exist
+# follow your dreams
 
-* so that you can do things that
-* to keep an implementation clean
-
-# don't worry
-
-Things you shouldn't worry about:
-
-* publishing a 
-
-# myths of triviality
+![dreams](images/follow_your_dreams.png)
 
 ```
 It does not matter how or frivolous a project seems: everything you do adds to
@@ -77,26 +50,50 @@ You are creating an ecosystem of projects.
 
 http://tinysubversions.com/2014/05/thoughts-on-small-projects
 
-# benefits of small projects
+# capture your motivation
 
-## voxeljs
+If you have an idea for a module, build it immediately!
 
-## gl-modules
+* review existing implementations first
+* limit scope to less than 2 hours of work
 
-## mathematics
+![motivation](images/motivation.png)
 
-## browserify v2
+# what an ecosystem looks like
 
-* module-deps
-* browser-pack
-* insert-module-globals
+![ecosystem](images/dat.gif)
 
-## trumpet redesign
+# browserify v2
 
-* html-select
-* cssauron
-* html-tokenize
-* trumpet
+<code>module-deps | insert-module-globals | browser-pack</code>
+
+# browserify
+
+![{"cwd":"example/browserify"}](images/terminal.png)
+
+# ndarray
+
+and new work on webgl modules
+
+# music
+
+![music](images/music.png)
+
+# music
+
+![{"cwd":"example/browserify"}](images/terminal.png)
+
+# trumpet
+
+![trumpet](images/trumpet.png)
+
+# trumpet
+
+![{"cwd":"example/trumpet"}](images/terminal.png)
+
+# [voxeljs](example/voxeljs/spider)
+
+![{"cwd":"example/voxeljs"}](images/terminal.png)
 
 # anti-patterns
 
