@@ -95,15 +95,16 @@ and new work on webgl modules
 
 ![{"cwd":"example/voxeljs"}](images/terminal.png)
 
-# anti-patterns
+# testing
 
-* plugins that require you to require them
+![tape](images/tape.png)
 
-* automated publishing without granular versioning, independent repositories
+# testing
 
-lodash does this presently. Hopefully they will fix some of these problems.
+![{"cwd":"example/test"}](images/terminal.png)
 
 # great collaborating
 
 https://github.com/substack/minimist/issues/16
+
 https://github.com/substack/minimist/pull/17
