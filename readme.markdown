@@ -80,7 +80,13 @@ If you have an idea for a module, build it immediately!
 
 # ndarray
 
-# [gl](example/gl/static/index.html)
+# [webgl bunny](example/gl/bunny/static/index.html)
+
+![{"cwd":"example/gl/bunny"}](images/terminal.png)
+
+# [webgl terrain](example/gl/terrain/static/index.html)
+
+![{"cwd":"example/gl/terrain"}](images/terminal.png)
 
 # music
 
