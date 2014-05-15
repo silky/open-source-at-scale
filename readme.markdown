@@ -59,6 +59,13 @@ If you have an idea for a module, build it immediately!
 
 ![motivation](images/motivation.png)
 
+# your job
+
+```
+11:51 < mafintosh> any good node modules for capnproto?
+11:52 < domanic> mafintosh, if you see a job that needs doing, it's your job.
+```
+
 # what an ecosystem looks like
 
 ![ecosystem](images/dat.gif)
@@ -73,7 +80,6 @@ If you have an idea for a module, build it immediately!
 
 # ndarray
 
-and new work on webgl modules
 
 # music
 
@@ -81,7 +87,15 @@ and new work on webgl modules
 
 # music
 
-![{"cwd":"example/browserify"}](images/terminal.png)
+![{"cwd":"example/music"}](images/terminal.png)
+
+# level
+
+![{"cwd":"example/level"}]
+
+# [voxeljs](example/voxeljs/spider)
+
+![{"cwd":"example/voxeljs"}](images/terminal.png)
 
 # trumpet
 
@@ -90,10 +104,6 @@ and new work on webgl modules
 # trumpet
 
 ![{"cwd":"example/trumpet"}](images/terminal.png)
-
-# [voxeljs](example/voxeljs/spider)
-
-![{"cwd":"example/voxeljs"}](images/terminal.png)
 
 # testing
 
@@ -108,3 +118,13 @@ and new work on webgl modules
 https://github.com/substack/minimist/issues/16
 
 https://github.com/substack/minimist/pull/17
+
+# distributed work
+
+If you see a job that needs doing, it's your job.
+
+![fist](images/fist.png)
+
+# _
+
+![intro](images/intro.png)
