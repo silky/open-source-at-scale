@@ -11,5 +11,5 @@ function fn (t) {
 
 for (var i = 0; i < 8000; i++) {
     t = i / 44000;
-    data[(i+index) % data.length] = fn(t);
+    data[i % data.length] = fn(t);
 }

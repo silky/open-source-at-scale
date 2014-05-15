@@ -91,7 +91,7 @@ If you have an idea for a module, build it immediately!
 
 # level
 
-![{"cwd":"example/level"}]
+![{"cwd":"example/level"}](images/terminal.png)
 
 # [voxeljs](example/voxeljs/spider)
 
