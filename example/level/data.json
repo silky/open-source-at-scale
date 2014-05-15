@@ -1,0 +1,12 @@
+[{"type":"put","key":"user!substack","value":{"website":"http://substack.net"}}
+,{"type":"put","key":"user!mikolalysenko","value":{"website":"https://0fps.net"}}
+,{"type":"put","key":"user!dominictarr","value":{"website":"http://dominictarr.com"}}
+,{"type":"put","key":"user!maxogden","value":{"website":"http://dominictarr.com/"}}
+,{"type":"put","key":"repo!tape","value":{"author":"substack"}}
+,{"type":"put","key":"repo!browserify","value":{"author":"substack"}}
+,{"type":"put","key":"repo!through","value":{"author":"dominictarr"}}
+,{"type":"put","key":"repo!mux-demux","value":{"author":"dominictarr"}}
+,{"type":"put","key":"repo!ndarray","value":{"author":"mikolalysenko"}}
+,{"type":"put","key":"repo!concat-stream","value":{"author":"maxogden"}}
+,{"type":"put","key":"repo!voxel-engine","value":{"author":"maxogden"}}
+]

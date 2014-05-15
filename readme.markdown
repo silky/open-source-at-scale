@@ -92,9 +92,21 @@ If you have an idea for a module, build it immediately!
 
 ![music](images/music.png)
 
-# music
+# algorithmic music
 
-![{"cwd":"example/music"}](images/terminal.png)
+![{"cwd":"example/music/song"}](images/terminal.png)
+
+# [music amplitude](example/music/amplitude/static/index.html)
+
+![{"cwd":"example/music/amplitude"}](images/terminal.png)
+
+# [music frequency](example/music/frequency/static/index.html)
+
+![{"cwd":"example/music/frequency"}](images/terminal.png)
+
+# [music studio](http://localhost:8001)
+
+![{"cwd":"example/music/studio"}](images/terminal.png)
 
 # level
 
